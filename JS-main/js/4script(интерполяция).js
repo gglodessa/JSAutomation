@@ -6,3 +6,4 @@ console.log(`https;//google.ru/${category}/5`); //так красиво))))
 
 const user ='Alex';
 alert(`привет, ${user}`);
+

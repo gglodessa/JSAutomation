@@ -46,7 +46,7 @@ async function shoppingInMiraton() {
         
         // 8. Установить колличество 5 пар и заполнить поля произвольными данными
         let addShose = await driver.findElement(By.className("up"));
-        for (let i =0; i < 4; i++){
+        for (let i = 0; i < 4; i++){
             await addShose.click();
         } 
         
